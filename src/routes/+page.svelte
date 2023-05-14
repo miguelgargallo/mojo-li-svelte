@@ -23,7 +23,7 @@
 				href="https://pylar.org"
 				class="flex flex-col items-center justify-center rounded-lg border border-gray-300 px-8 py-6 transition-colors hover:border-gray-400 hover:bg-gray-50"
 			>
-				<h2 class="text-xl font-semibold text-gray-900 dark:text-gray-100 mb-2">Pylar</h2>
+				<h2 class="text-xl font-semibold text-gray-900 dark:text-gray-100 mb-2">Pylar AI</h2>
 				<p class="text-sm text-gray-700 dark:text-gray-300">Potencia tu negocio.</p>
 			</a>
 			<a
